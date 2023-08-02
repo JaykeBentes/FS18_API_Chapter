@@ -13,8 +13,8 @@ namespace Chapter.Contexts
         {
             if (!optionsBuilder.IsConfigured) 
             {
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-4SLU9M3\\SQLEXPRESS; initial catalogue = Chapter; Integrated Security = true ");
-                //optionsBuilder.UseSqlServer("Data Source = DESKTOP-4SLU9M3\\SQLEXPRESS; initial catalogue = Chapter; user id = sa; password = 12345");
+                //optionsBuilder.UseSqlServer("Data Source = DESKTOP-4SLU9M3\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true; TrustServerCertificate=True");
+                optionsBuilder.UseSqlServer("Data Source=DESKTOP-4SLU9M3\\SQLEXPRESS; initial catalog=Chapter; user id=sa; password=1234; TrustServerCertificate=True");
             }
         }
         public DbSet<Livro> Livros { get; set; }

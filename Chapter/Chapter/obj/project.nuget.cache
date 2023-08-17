@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mpVae+3jp+O1Q/Jd6584Cxi/+AYUFY0p/BPN4KYAFW0/YOzMEhQK7w9/L5dAToSGz9sPQqCf6gMgMg20MJoBVA==",
+  "dgSpecHash": "RdOmAbQ1ygpcLwCGQLDggO7tvSlZzCJLIezZmN5Yfjc7eNKJ2dyg8EiSs3MCIo62l/p6W5GfAp39rgy8G78vFg==",
   "success": true,
-  "projectFilePath": "D:\\FS18_Desenv_API\\FS18_API_Chapter\\Chapter\\Chapter\\Chapter.csproj",
+  "projectFilePath": "D:\\Curso Full-Stack senai\\FS18_Desenv_API\\FS18_API_Chapter\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jacqueline\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Jacqueline\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\Jacqueline\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.4\\microsoft.aspnetcore.authentication.jwtbearer.6.0.4.nupkg.sha512",
     "C:\\Users\\Jacqueline\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Jacqueline\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Jacqueline\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
